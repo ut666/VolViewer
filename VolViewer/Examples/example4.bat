@@ -1,0 +1,1 @@
+BioptonicsViewer omero_server="xxxx" omero_sessionid="xxxxx" omero_imageid=xxxx

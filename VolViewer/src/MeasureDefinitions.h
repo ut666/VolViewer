@@ -1,0 +1,24 @@
+/*
+ *   Copyright 2009 Jerome Avondo. All rights reserved.
+ *   Use is subject to license terms supplied in LICENSE.txt
+ */
+#ifndef MEASUREDEFINITIONS_H
+#define MEASUREDEFINITIONS_H
+
+#define MEASURE_DRAWMODE_NONE		-1
+#define MEASURE_DRAWMODE_POINTS		0
+#define MEASURE_DRAWMODE_LINES		1
+#define MEASURE_DRAWMODE_MAGNETLINE	2
+#define MEASURE_DRAWMODE_CROP		3
+
+#define MEASURE_EDIT_NONE	-1
+#define MEASURE_EDIT_VERTS	0
+#define MEASURE_EDIT_EDGES	1
+#define MEASURE_EDIT_FACES	2
+
+#define MEASURE_VIEW_NONE	-1
+#define MEASURE_VIEW_VERTS	0
+#define MEASURE_VIEW_EDGES	1
+#define MEASURE_VIEW_FACES	2
+
+#endif //MEASUREDEFINITIONS_H
